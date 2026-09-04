@@ -1,0 +1,1 @@
+LINE preview v4 uses share-v4.html and og-preview-v4.jpg. The share page intentionally does not auto-redirect so LINE crawlers can read Open Graph metadata before the user taps the button.

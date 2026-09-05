@@ -1,6 +1,0 @@
-NYANSUKE MASTER LOCK
-Approved UI/layout is locked.
-Specified user artwork must never be regenerated or replaced.
-Allowed current changes only: correct original-art crops and clear fanfare.
-Audio architecture: same WAV Blob + HTMLAudio playback pattern proven in Donmaru.
-Before release: verify 12 cards, 6 pairs, 4 specified corners, no crop, no overlap, title/subtitle/colors/clover/dango, reset, move/pair counters, mismatch/match/clear states, five sounds.
